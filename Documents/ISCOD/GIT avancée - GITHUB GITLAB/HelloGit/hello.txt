@@ -11,4 +11,5 @@ Mettre la couleur jaune sur le label
 // Finalisation
 Ajouter le lable sur la fenetre
 Afficher la fenêtre
-} }i
+} }   //c1
+
